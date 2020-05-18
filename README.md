@@ -1,6 +1,6 @@
 # Smartphone-Engagement
 
-This repository provides complementary files related to an research project on Academic Smartphone Engagemnt. 
+This repository provides complementary files related to an research project on Academic Smartphone Engagement. 
 
 Inquiries should be directed to Kevin Lumbard - klumbard@unomaha.edu
 
